@@ -57,3 +57,8 @@ Logistic Regression effectively predicted sentiment with minimal computation tim
 Conclusion
 This project successfully analyzed customer sentiment on women’s clothing reviews. The approach can be extended to other e-commerce platforms for customer feedback analysis, product improvement, and recommendation systems.
 Matplotlib & Seaborn → Data visualization (bar chart & heatmap).
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/fafcfadb-fb89-4a64-8625-6ce475ea43b1)
+
+![Image](https://github.com/user-attachments/assets/cde9b554-ad0a-49ba-a6a3-a1e2b9cf792f)
